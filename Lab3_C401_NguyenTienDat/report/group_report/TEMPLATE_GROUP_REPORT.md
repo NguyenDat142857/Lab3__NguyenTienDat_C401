@@ -1,8 +1,11 @@
 # Group Report: Lab 3 - Production-Grade Agentic System
 
-* **Team Name**: C401
-* **Team Members**: Nguyen Tien Dat
-* **Deployment Date**: 2026-04-06
+| Tên             | Mã số sinh viên | Email                           |
+| --------------- | --------------- | -----                           |
+| Nguyễn Tiến Đạt | 2A202600218     | 69tiendat@gmail.com             |
+| Ngô Văn Long    | 2A202600129     | lonqnv3008@gmail.com            |
+| Nguyễn Duy Hiếu | 2A202600153     | nguyenduyhieu03112003@gmail.com |
+| Phạm Đan Kha    | 2A202600253     | khapham117@gmail.com            |
 
 ---
 
